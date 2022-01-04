@@ -1,13 +1,13 @@
 # Static Methods - Compiler Errors
 
-A beginner level task to practice fixing compiler errors that are very common in coding experience.
+Beginner level task to practice fixing compiler errors that are very common in coding experience.
 
 Estimated time to complete the task - 0.5h.
 
-The task requires .NET 6 SDK.
+The task requires .NET 6 SDK installed.
 
 
-# Task Description
+## Task Description
 
 The task has five sub-tasks. Each sub-task is a small coding exercise.
 
