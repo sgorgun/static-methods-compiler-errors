@@ -1,6 +1,6 @@
 # Static Methods - Compiler Errors
 
-Beginner level task to practice fixing compiler errors that are very common in coding experience.
+Beginner level task to practice fixing the most common compiler errors.
 
 Estimated time to complete the task - 1h.
 
@@ -16,7 +16,7 @@ The task has five sub-tasks. Each sub-task is a small coding exercise.
 
 1. [Build the solution](https://docs.microsoft.com/en-us/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio).
     * Click on the menu item - _Build\Build Solution_.
-    * Or use the default keyboard shortcut - _Ctrl+Shift+B_ (various versions of Visual Studio may have different keyboard shortcuts. See [Keyboard shortcuts in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio) article).
+    * Or use the default keyboard shortcut - _Ctrl+Shift+B_ (different versions of Visual Studio may have different keyboard shortcuts. See [Keyboard shortcuts in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio) article).
 
 ![Build Solution](images/build-solution.png)
 
@@ -32,7 +32,7 @@ The task has five sub-tasks. Each sub-task is a small coding exercise.
 
 You will get to the issue documentation page.
 
-4. Double-click on the CS0103 issue in the _Error List_ view. 
+4. Double-click on the CS0103 issue in the _Error List_ window. 
 
 ![Navigate to CS0103](images/navigate-to-cs0103.png)
 
@@ -55,16 +55,16 @@ public static int MyMethod()
 
 ![Rebuild Solution](images/rebuild-solution.png)
 
-8. Open the _Error List_ view again and make sure there are no CS0103 issues.
+8. Open the _Error List_ window again and make sure there are no CS0103 issues.
 
 
 ## CS0117
 
 ![CS0117](images/cs0117.png)
 
-1. Open the _Error List_ view, find the CS0117 issue.
+1. Open the _Error List_ window, find the CS0117 issue.
 2. Open and read the issue documentation page.
-3. Navigate to the code by clicking on the issue line in _Error List_ view.
+3. Navigate to the code by clicking on the issue line in _Error List_ window.
 4. Replace the name of the method called in the return statement with correct spelling - _ReturnLong_.
 
 ```cs
@@ -75,7 +75,7 @@ public static long MyMethod()
 ```
 
 5. Rebuild the solution.
-6. Open the _Error List_ view again and make sure there are no CS0117 issues anymore.
+6. Open the _Error List_ window again and make sure there are no CS0117 issues anymore.
 
 
 ## CS1501
