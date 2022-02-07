@@ -40,7 +40,7 @@ You will get to the [CS0103/MyClass.cs](CompilerErrors/CS0103/MyClass.cs) file.
 
 ![CS0103](images/cs0103.png)
 
-5. Read the documentation page and learn [how to fix the error](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-messages/cs0103): "Check the spelling of the name and check your [using directives](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive) and assembly references to make sure that the name that you are trying to use is available."
+5. Read the documentation page and learn [how to fix the error](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-messages/cs0103): "Check the spelling of the name and check your [**using** directives](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive) and assembly references to make sure that the name that you are trying to use is available."
 
 6. Replace the name of the method called in the return statement with correct spelling - _ReturnInt_.
 
