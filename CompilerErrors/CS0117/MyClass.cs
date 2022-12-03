@@ -4,7 +4,7 @@
     {
         public static long MyMethod()
         {
-            return AnotherClass.Return1ong(longParameter: 49_023_471L);
+            return AnotherClass.ReturnLong(longParameter: 49_023_471L);
         }
     }
 
